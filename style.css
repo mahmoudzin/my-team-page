@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Montserrat:wght@100;200;300;400;500;600&family=PT+Sans:wght@400;700&family=PT+Serif:wght@400;700&family=Playfair+Display:wght@400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Space+Mono:wght@400;700&display=swap');
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-align: border-box;
+    box-sizing: border-box;
+}
+/*reset default sitting*/
+h1{
+    margin: 0;
+    font-family: PT Serif;
+}
+p, h4{
+    margin: 0;
+    font-family: Poppins;
+}
